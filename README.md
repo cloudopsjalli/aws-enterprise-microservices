@@ -1,25 +1,9 @@
 # Cloud & DevOps Projects
 
-Welcome to the **aws-projects Repository** 
+Welcome to the **aws-enterprise-microservices Repository** 
 
-This repository contains a collection of **real-world AWS, DevOps, and Cloud Engineering projects** designed to simulate production-grade architectures used in modern systems.
+This repository contains a collection of **aws enterprise microservices project** designed to simulate production-grade architectures used in modern systems.
 
-Each project is built with a focus on:
--  Real-world architecture
--  Hands-on implementation
-
----
-
-## About This Repository
-
-This is not a collection of basic demos.
-
- Every project in this repository is designed to:
-- Teach practical cloud engineering
-- Help you **build production-ready systems
-- Bridge the gap between **theory and real-world implementation
-
----
 
 **Key Features:**
 - Multi-tier VPC architecture
